@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 
 `echo "aGFja2Z1bm5ubm5ubkBnbWFpbC5jb20=" | base64 -d`
 
-If possible, encrypt your message with my PGP key;
+If possible, encrypt your message with my PGP key or fingerprint;
+
+- fingerprint: ```A448 26A3 E816 7E56 03D5  7216 D56B 5CA9 9EC3 B936```
+
+- key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
